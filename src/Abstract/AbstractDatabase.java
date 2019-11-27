@@ -2,7 +2,7 @@ package Abstract;
 public abstract class AbstractDatabase  {
    
     public void Add(){
-        System.out.println("Eklendi");
+        System.out.println("Eklendi.");
         
     }
     public void Delete(){
